@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Verdana,Tahoma, sans-serif;
+}
+p {
+  font-size: 16px;
+}
+.contenedor {
+  max-width: 1200px;
+  margin: auto;
+}
+.menu {
+  background-color: #0264af;
+  text-align: center;
+  padding: 15px;
+}
+.menu a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 50px;
+  padding: 15px;
+}
+#line {
+  height: 10px;
+  background-color: #01aef2;
+}
+.imagen {
+  background-image: url(imagenes/fondo_slide.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 508px;
+  text-align: center;
+}
+.imagen-1 img {
+  margin-top: 75px;
+  margin-bottom: 15px;
+}
+.imagen1 {
+  padding: 0 85px 0 85px;
+  margin-bottom: 87px;
+}
+.imagen1 p {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+}
+.azul {
+  color: #00b0ec;
+  font-weight: 700;
+}
+.boton {
+  text-decoration: none;
+  background-color: #ff6501;
+  padding: 10px 30px 10px 30px;
+  color: #ffffff;
+}
+.tab {
+  padding: 20px;
+}
+#tabla {
+  text-align: center;
+  border: 4px solid #00b0ec;
+  width: 100%;
+  height: 360px;
+  border-spacing: 0 0;
+}
+#tabla td {
+  border: 1px solid #d7dce0;
+}
+.cabecera {
+  background-color: #00b0ec;
+  width: 100px;
+}
+.cabecera p {
+  color: #ffffff;
+}
+.cabecera,
+.mano {
+  width: 200px;
+}
+.mano img {
+  max-width: 30px;
+}
+.cabecera1 {
+  background-color: #e8ffff;
+  border: 1px solid #d7dce0;
+  height: 35px;
+  padding: 5px;
+}
+.cabecera2 {
+  height: 35px;
+  padding: 5px;
+}
+.negrita {
+  color: #003b67;
+  font-size: 25px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: 600;
+}
+.negrita1{
+  color: #003b67;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 25px;
+  
+}
+.negrita11 {
+  font-family:roboto;
+  color: #003b67;
+  font-size: 30px;
+}
+.negrita2{
+  color: #003b67;
+  font-size: 17px;
+  font-family:roboto;
+}
+.negritas{
+  color: #003b67;
+  font-size: 45px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: 600;
+}
+
+#vi {
+  padding: 30px;
+}
+#vi iframe {
+  margin: auto;
+  width: 100%;
+  height: 630px;
+}
+.texp {
+  text-align: center;
+  padding: 20px;
+}
+.texp a {
+  text-decoration: none;
+  background-color: #ff6501;
+  padding: 10px;
+  color: #ffffff;
+}
+.texp p {
+  padding: 10px;
+  margin-bottom: 40px;
+}
+
+.pie {
+  background-color: #0264af;
+  text-align: center;
+}
