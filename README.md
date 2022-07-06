@@ -18,4 +18,4 @@ Repositorio de maquetado de jose luis
 
 -[proyecto 7 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/uicab_jose_caras)
 
--[proyecto 8 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/TAREA_CREDENCIAL)
+-[proyecto 8 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/tarea_completa)
