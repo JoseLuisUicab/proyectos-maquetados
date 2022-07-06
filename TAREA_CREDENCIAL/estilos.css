@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.ancho {
+  width: 1000px;
+  margin: auto;
+}
+.cabe {
+  background-color: #e8772b;
+}
+.foto {
+  width: 170px;
+  display: inline-block;
+  margin-right: 60px;
+}
+.foto1 {
+  display: inline-block;
+  width: 100px;
+}
+.foto1 img,
+.foto img {
+  width: 100%;
+}
+#slogan {
+  margin-right: 100px;
+  margin-top: 35px;
+  font-family: Fredoka One;
+  vertical-align: top;
+  display: inline-block;
+}
+/* formulario */
+#form1 {
+  text-align: center;
+  padding: 10px;
+  margin: auto;
+}
+.texto {
+  font-family: Montserrat;
+  text-align: right;
+  line-height: 52px;
+  vertical-align: top;
+  display: inline-block;
+}
+.meterd {
+  padding: 10px;
+  vertical-align: top;
+  font-family: Montserrat;
+  display: inline-block;
+}
+.meterd input {
+  font-family: Montserrat;
+  display: block;
+  padding: 10px;
+  width: 310px;
+  margin-bottom: 14px;
+}
+select {
+  font-family: Montserrat;
+  display: block;
+  padding: 10px;
+  width: 310px;
+  margin-bottom: 10px;
+}
+.te {
+  font-family: Montserrat;
+}
+#dat {
+  padding: 20px;
+  font-family: Montserrat;
+}
+#archi {
+  font-family: Montserrat;
+}
+#bot input {
+  padding: 8px 60px;
+  border-radius: 5px;
+  border: 1px solid;
+  color: white;
+  font-weight: bold;
+  background-color: #86271f;
+}
+#ver {
+  font-family: Montserrat;
+  text-align: right;
+}
+#ver a {
+  background-color: #e8772b;
+  text-decoration: none;
+  padding: 10px 15px;
+  color: white;
+  border-radius: 5px;
+}
+#c1 {
+  width: 1200px; 
+  margin: auto;
+}
+.regre{
+  padding: 10px;
+}
+.regre a {
+  font-family: Montserrat;
+  background-color: #e8772b;
+  text-decoration: none;
+  padding: 10px 15px;
+  color: white;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#cre {
+  background-image: url("imagenes/fondo_credencial.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 396px;
+  height: 280px;
+  display: inline-block;
+  vertical-align: top;
+}
+table {
+  border-spacing: 7px;
+  text-align: center;
+  width: 150px;
+  margin: auto;
+  margin-top: 110px;
+}
+table td {
+  font-size: 14px;
+  height:20px;
+  text-align: center;
+}
+#fo {
+  width: 85px;
+}
+.neg{
+  font-weight: bold;
+  font-family: Montserrat;
+}

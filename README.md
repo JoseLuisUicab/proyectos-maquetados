@@ -13,3 +13,9 @@ Repositorio de maquetado de jose luis
 -[proyecto 4 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/uicab_jose_Examen_unidad_2)
 
 -[proyecto 5 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/jose_uicab_details)
+
+-[proyecto 6 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/uicab_jose_tec)
+
+-[proyecto 7 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/uicab_jose_caras)
+
+-[proyecto 8 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/TAREA_CREDENCIAL)
