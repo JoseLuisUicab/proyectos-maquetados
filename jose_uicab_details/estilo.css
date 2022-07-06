@@ -1,0 +1,93 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+#contenedor {
+  width: 1200px;
+  margin:auto;
+}
+.cabeza {
+  background-color: #012653;
+}
+.arriba {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  border-top: 8px solid yellow;
+  border-bottom: 8px solid yellow;
+  padding: 5px;
+}
+.arriba img {
+  width: 15%;
+}
+.arriba p {
+  margin: auto;
+  font-weight: 700;
+  font-family: Fredoka One;
+  font-size: 70px;
+  color: white;
+}
+#fondo {
+  background-image: url(fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 530px;
+}
+.cajas {
+  padding: 20px;
+}
+
+.caja1,
+.caja2 {
+  justify-content: space-evenly;
+  display: flex;
+  padding: 10px;
+}
+details {
+  width: 20%;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: #0088bb;
+}
+summary {
+  text-align: center;
+  color: white;
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: bold;
+}
+.gruoa {
+  display: flex;
+  -webkit-box-shadow: 0px 3px 17px -4px #000000;
+  box-shadow: 0px 3px 17px -4px #000000;
+  padding: 5px;
+  align-items: center;
+  margin-bottom: 4px;
+  background-color: snow;
+  border-radius: 8px;
+  border: 1px solid white;
+}
+.gruoa img {
+  width: 40px;
+}
+.gruoa p {
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.pie{
+  background-color: #012653;
+}
+.pies p {
+  text-align: center;
+  font-weight: 700;
+  font-family: Poppins;
+  font-size: 75px;
+  color: white;
+}
+.amarillo{
+  color: orange;
+}
+
