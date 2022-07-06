@@ -8,6 +8,8 @@ Repositorio de maquetado de jose luis
 
 -[proyecto2 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/uicab_can_jose_tecnologico)
 
--[proyecto 3 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/uicab_jose_tareadisplay)
+-[proyecto 3 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/uicab_jose_tarea_display)
 
 -[proyecto 4 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/uicab_jose_Examen_unidad_2)
+
+-[proyecto 5 practica universidad](https://JoseLuisUicab.github.io/proyectos-maquetados/jose_uicab_details)
