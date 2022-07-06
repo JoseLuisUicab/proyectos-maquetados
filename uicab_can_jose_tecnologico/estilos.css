@@ -1,0 +1,156 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: helvetica;
+  font-size: 16px;
+}
+.contenedor{
+  max-width: 1000px;
+  margin: auto;
+}
+#amarillo{
+  height: 10px;
+  background-color:#cc9900 ;
+}
+.foto1{
+  padding: 15px;
+}
+#imagen1{
+  width: 120px;
+  display: block;
+  margin: auto;
+}
+.menu{
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.menu a{
+  color:#FFFFFF;
+  text-decoration:  none;
+  background-color:#800000;
+  font-family:helvetica; 
+  padding: 5px;
+  margin-right: 30px;
+  margin-left: 10px;
+  padding-left: 33px;
+  padding-right: 33px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 27px;
+}
+.foto2 img{
+  width:100%;
+}
+.bienvenida{
+  background-color:#F2F2F2;
+  border-radius:10px;
+  margin-top:15px;
+  padding:20px
+}
+.bienvenida h1{
+  text-align: justify;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-top: 10px;
+  margin-bottom:10px;
+}
+.bienvenida p,
+.obj p,
+.campo p{
+  text-align: justify;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-top: 20px;
+  margin-bottom:10px;
+}
+#dorado{
+  height: 9px;
+  margin-left: 70px;
+  background-color:#cc9900 ;
+  width: 70px;
+  margin-bottom: 35px;
+}
+.obj,.campo{
+  border: 1px solid #800000;
+  text-align: center;
+  margin-top:15px;
+  padding:20px;
+  border-radius:10px;
+}
+.rojo{
+  height: 9px;
+  margin:auto;
+  background-color:#800000;
+  width: 70px;
+  margin-bottom: 46px;
+}
+#imagen4,
+#imagen3{
+  width: 350px;
+  border-radius:10px;
+}
+.materias{
+  border: 1px solid #800000;
+  margin-top:15px;
+  padding:20px;
+  border-radius:10px;
+}
+.materias h3,
+.campo h3,
+.materias h3,
+.obj h3{
+  text-align: center;
+  border-radius:10px;
+  margin-bottom: 10px;
+} 
+.colorama{
+  color: #cc9900;
+  font-weight: bold;
+}
+.negros{
+font-weight: bold;
+}
+.tr{
+  color: #800000;
+  font-weight: bold;
+}
+.engranes {
+  width:15%;
+}
+.engranes h4{
+  float: right;
+  padding: 10px;
+}
+.pv,.para{
+  margin-left: 28px;
+  padding: 10px;
+}
+.texto_amarillo{
+  color:#cc9900;
+  font-weight: bold;
+}
+.pie {
+  background-color:#800000;
+  border-radius: 10px;
+  padding:20px;
+  text-align:center;
+  margin-top:15px;
+}
+.pie p{
+  color: #FFFFFF;
+  font-weight: bold; 
+}
+
+
+
+
+
+
+
+
+
+
+
